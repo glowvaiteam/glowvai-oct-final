@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">glowvai</string>
+    <string name="title_activity_main">glowvai</string>
+    <string name="package_name">com.glowvai.app</string>
+    <string name="custom_url_scheme">com.glowvai.app</string>
+</resources>
